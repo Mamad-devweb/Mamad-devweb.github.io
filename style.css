@@ -302,3 +302,12 @@ html {
         background-color:yellowgreen;
         border: solid;
 }
+
+.mode {
+        width: 200px;
+        height: 100px;
+        background-color: purple;
+        color: white;
+        border-radius: 20px;
+        border: solid yellow 2px;
+}
